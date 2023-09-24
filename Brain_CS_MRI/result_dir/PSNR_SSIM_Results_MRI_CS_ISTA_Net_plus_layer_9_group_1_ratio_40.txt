@@ -1,0 +1,3 @@
+CS ratio is 40, Avg Proposed PSNR/SSIM for brainMR_test is 31.64/0.8493, Epoch number of model is 3 
+CS ratio is 40, Avg Proposed PSNR/SSIM for brainMR_test is 42.79/0.9723, Epoch number of model is 3 
+CS ratio is 40, Avg Proposed PSNR/SSIM for brainMR_test is 43.66/0.9774, Epoch number of model is 13 
