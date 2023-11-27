@@ -1,7 +1,7 @@
 CS-MRI
 This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration.
 Overview
-Compressed Sensing MRI (CS-MRI) is a technique that can significantly accelerate MRI acquisition times by undersampling the k-space data. However, this undersampling can lead to aliasing artifacts in the reconstructed images. CS-MRI algorithms are designed to reconstruct high-quality images from undersampled k-space data by exploiting the sparsity of the MRI image in some transform domain.
+Compressed Sensing MRI (CS-MRI) is a technique that can significantly accelerate MRI acquisition times by undersampling the k-space data. CS-MRI algorithms are designed to reconstruct high-quality images from undersampled k-space data by exploiting the sparsity of the MRI image in transform domain.
 Repository Contents
 This repository contains the following files:
 •	train.ipynb: Script for training the CS-MRI model
@@ -11,7 +11,7 @@ This repository contains the following files:
 Datasets
 The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://github.com/jianzhangcs/ISTA-Net-PyTorch alongside additional datasets of Knee MR form HKL Kuala Lumpur for the research work.
 
-Usage
+Usage:
 To train the CS-MRI model, run the relevant Brian and Knee train and test files. The test files takes the parameters saved in models directory to restore images.  
 Citation
 Please cite the following paper if you use this work:
