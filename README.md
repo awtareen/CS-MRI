@@ -1,4 +1,27 @@
-# CS-MRI
-A CS MRI framework for MRI under sampled image restoration 
-The repsoitory contains train an dtest files for MRI undersampled MRI image restoration along datasets and Mask used. 
-The train and test images are taken from (https://github.com/jianzhangcs/ISTA-Net-PyTorch) alongside additional datasets of Knee  MR for the reseach work. This research work was supported by UniKL BMI Kuala Lumpur Grant FRGS/1/2019/TK04/UNIKL/02/6.
+CS-MRI
+This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration.
+Overview
+Compressed Sensing MRI (CS-MRI) is a technique that can significantly accelerate MRI acquisition times by undersampling the k-space data. However, this undersampling can lead to aliasing artifacts in the reconstructed images. CS-MRI algorithms are designed to reconstruct high-quality images from undersampled k-space data by exploiting the sparsity of the MRI image in some transform domain.
+Repository Contents
+This repository contains the following files:
+•	train.ipynb: Script for training the CS-MRI model
+•	test.ipynb: Script for testing the CS-MRI model
+•	testdata: Directory containing MRI datasets
+•	masks_dir: Directory containing k-space sampling masks
+Datasets
+The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://github.com/jianzhangcs/ISTA-Net-PyTorch alongside additional datasets of Knee MR form HKL Kuala Lumpur for the research work.
+
+Usage
+To train the CS-MRI model, run the relevant Brian and Knee train and test files. The test files takes the parameters saved in models directory to restore images.  
+Citation
+Please cite the following paper if you use this work:
+@article{wahid2020multi,
+  title={Multi-layer basis pursuit for compressed sensing MR image reconstruction},
+  author={Wahid, Abdul and Shah, Jawad Ali and Khan, Adnan Umar and Ahmed, Manzoor and Razali, Hanif},
+  journal={IEEE Access},
+  volume={8},
+  pages={186222--186232},
+  year={2020},
+  publisher={IEEE}
+}
+
