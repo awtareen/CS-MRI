@@ -22,7 +22,7 @@ The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://
 
 # Usage:
 
-To train the CS-MRI model, run the relevant Brian and Knee train and test files. The test files takes the parameters saved in models directory to restore images.
+To train the CS-MRI model, run the relevant Brain and Knee train files. after the paramters are saved, run test files to restore test images. The test files takes the parameters saved in models directory to restore images.
 
 
 
