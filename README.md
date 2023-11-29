@@ -11,8 +11,13 @@ This repository contains the following files:
 Datasets
 The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://github.com/jianzhangcs/ISTA-Net-PyTorch alongside additional datasets of Knee MR form HKL Kuala Lumpur for the research work.
 
+
+
 Usage:
-To train the CS-MRI model, run the relevant Brian and Knee train and test files. The test files takes the parameters saved in models directory to restore images.  
+To train the CS-MRI model, run the relevant Brian and Knee train and test files. The test files takes the parameters saved in models directory to restore images.
+
+
+
 Citation
 Please cite the following paper if you use this work:
 @article{wahid2020multi,
