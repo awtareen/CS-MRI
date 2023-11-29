@@ -12,6 +12,7 @@ This repository contains the following files:
 -	test.ipynb: Script for testing the CS-MRI model
 -	testdata: Directory containing MRI datasets
 -	masks_dir: Directory containing k-space sampling masks
+-	Models dir : Directory containng saved papremeters after training ends.
 
 # Datasets
 
