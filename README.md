@@ -1,4 +1,4 @@
-CS-MRI
+## CS-MRI
 This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration.
 
 Overview
