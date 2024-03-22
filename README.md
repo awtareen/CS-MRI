@@ -1,6 +1,6 @@
 # Multi-layer Basis Pursuit for Compressed Sensing MR Image Reconstruction
 
-## This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration for follwing paper.
+# This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration for follwing paper.
 A. Wahid, J. A. Shah, A. U. Khan, M. Ahmed and H. Razali, "Multi-Layer Basis Pursuit for Compressed Sensing MR Image Reconstruction," in IEEE Access, vol. 8, pp. 186222-186232, 2020, doi: 10.1109/ACCESS.2020.3028877.
 
 ## Overview
