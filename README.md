@@ -1,5 +1,7 @@
-## CS-MRI
-This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration.
+
+## Multi-layer Basis Pursuit for Compressed Sensing MR Image Reconstruction
+
+# This repository contains a Compressed Sensing (CS) MRI framework for MRI undersampled image restoration.
 
 ## Overview
 
