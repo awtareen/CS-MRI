@@ -12,7 +12,7 @@ Compressed Sensing MRI (CS-MRI) is a technique that can significantly accelerate
 This repository contains the following files:
 -	train.ipynb: Script for training the CS-MRI model
 -	test.ipynb: Script for testing the CS-MRI model
--	testdata: Directory containing MRI datasets
+-	testdata: Directory containing MRI test images.
 -	masks_dir: Directory containing k-space sampling masks
 -	Models dir : Directory containng saved papremeters after training ends.
 
