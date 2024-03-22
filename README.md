@@ -5,7 +5,7 @@ A. Wahid, J. A. Shah, A. U. Khan, M. Ahmed and H. Razali, "Multi-Layer Basis Pur
 
 ## Overview
 
-Compressed Sensing MRI (CS-MRI) is a technique that can significantly accelerate MRI acquisition times by undersampling the k-space data. CS-MRI algorithms are designed to reconstruct high-quality images from undersampled k-space data by exploiting the sparsity of the MRI image in transform domain.
+Compressive Sensing (CS) is a widely used technique in biomedical signal acquisition and reconstruction. The technique is especially useful for reducing acquisition time for magnetic resonance imaging (MRI) signal acquisitions and reconstruction, where effects of patient fatigue and Claustrophobia need mitigation. In addition to improving patient experience, faster MRI scans are important for time sensitive imaging, such as functional or cardiac MRI, where target movement is unavoidable. Inspired from recent research works on multi-layer convolutional sparse coding (ML-CSC) theory to model deep neural networks, this work proposes a multi-layer basis pursuit framework which combines the benefit from objective-based CS reconstructions and deep learning-based reconstruction by employing iterative thresholding algorithms for successfully training a CS-MRI restoration framework on GPU and reconstruct test images using parameters of the trained model. Extensive experiments show the effectiveness of the proposed framework on four MRI datasets in terms of faster convergence, improved PSNR/SSIM, and better restoration efficiency as compared to the state of the art frameworks with different CS ratios.
 
 # Repository Contents
 
