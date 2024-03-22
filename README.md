@@ -5,7 +5,17 @@ A. Wahid, J. A. Shah, A. U. Khan, M. Ahmed and H. Razali, "Multi-Layer Basis Pur
 
 ## Overview
 
-Compressive Sensing (CS) is a widely used technique in biomedical signal acquisition and reconstruction. The technique is especially useful for reducing acquisition time for magnetic resonance imaging (MRI) signal acquisitions and reconstruction, where effects of patient fatigue and Claustrophobia need mitigation. In addition to improving patient experience, faster MRI scans are important for time sensitive imaging, such as functional or cardiac MRI, where target movement is unavoidable. Inspired from recent research works on multi-layer convolutional sparse coding (ML-CSC) theory to model deep neural networks, this work proposes a multi-layer basis pursuit framework which combines the benefit from objective-based CS reconstructions and deep learning-based reconstruction by employing iterative thresholding algorithms for successfully training a CS-MRI restoration framework on GPU and reconstruct test images using parameters of the trained model. Extensive experiments show the effectiveness of the proposed framework on four MRI datasets in terms of faster convergence, improved PSNR/SSIM, and better restoration efficiency as compared to the state of the art frameworks with different CS ratios.
+Deep Learning-based Compressive Sensing MRI Reconstruction
+
+This repository provides the code and details for a novel multi-layer basis pursuit framework for Compressive Sensing (CS) Magnetic Resonance Imaging (MRI) reconstruction. The framework combines the strengths of objective-based CS reconstructions and deep learning by leveraging iterative thresholding algorithms. 
+This approach enables:
+
+Faster MRI Scans: Reduce acquisition times, mitigating patient discomfort and enabling time-sensitive imaging.
+Improved Image Quality: Achieve superior Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) compared to state-of-the-art methods.
+Efficient Reconstruction: Our framework demonstrates faster convergence and improved reconstruction efficiency for various CS ratios across four MRI datasets.
+Inspired by recent advancements in multi-layer convolutional sparse coding (ML-CSC) theory, our work proposes a deep learning-based CS-MRI restoration framework trained on GPUs.
+
+This repository welcomes contributions and aims to be a valuable resource for researchers exploring deep learning applications in CS-MRI reconstruction.
 
 # Repository Contents
 
