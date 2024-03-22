@@ -10,9 +10,9 @@ Deep Learning-based Compressive Sensing MRI Reconstruction
 This repository provides the code and details for a novel multi-layer basis pursuit framework for Compressive Sensing (CS) Magnetic Resonance Imaging (MRI) reconstruction. The framework combines the strengths of objective-based CS reconstructions and deep learning by leveraging iterative thresholding algorithms. 
 This approach enables:
 
-Faster MRI Scans: Reduce acquisition times, mitigating patient discomfort and enabling time-sensitive imaging.
-Improved Image Quality: Achieve superior Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) compared to state-of-the-art methods.
-Efficient Reconstruction: Our framework demonstrates faster convergence and improved reconstruction efficiency for various CS ratios across four MRI datasets.
+#Faster MRI Scans: Reduce acquisition times, mitigating patient discomfort and enabling time-sensitive imaging.
+#Improved Image Quality: Achieve superior Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) compared to state-of-the-art methods.
+#Efficient Reconstruction: Our framework demonstrates faster convergence and improved reconstruction efficiency for various CS ratios across four MRI datasets.
 Inspired by recent advancements in multi-layer convolutional sparse coding (ML-CSC) theory, our work proposes a deep learning-based CS-MRI restoration framework trained on GPUs.
 
 This repository welcomes contributions and aims to be a valuable resource for researchers exploring deep learning applications in CS-MRI reconstruction.
