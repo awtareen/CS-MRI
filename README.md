@@ -7,7 +7,7 @@ A. Wahid, J. A. Shah, A. U. Khan, M. Ahmed and H. Razali, "Multi-Layer Basis Pur
 
 Deep Learning-based Compressive Sensing MRI Reconstruction
 
-This repository provides the code and details for a multi-layer basis pursuit framework for Compressive Sensing (CS) Magnetic Resonance Imaging (MRI) reconstruction. The framework combines the strengths of objective-based CS reconstructions and deep learning by leveraging iterative thresholding algorithms. The framework demonstrates faster convergence and improved reconstruction efficiency for various CS ratios across four MRI datasets.
+This repository provides the code and details for a multi-layer basis pursuit framework for Compressive Sensing (CS) Magnetic Resonance Imaging (MRI) reconstruction. The framework combines the strengths of objective-based CS reconstructions and deep learning by leveraging iterative thresholding algorithms. The framework demonstrates faster convergence and improved reconstruction efficiency for various CS ratios across MRI datasets.
 
 
 
