@@ -23,7 +23,7 @@ This repository contains the following files:
 
 # Datasets
 
-The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://github.com/jianzhangcs/ISTA-Net-PyTorch alongside additional datasets of Knee MR form HKL Kuala Lumpur for the research work.
+The train and test images of Brain MRI are taken from ISTA-Net-PyTorch: https://github.com/jianzhangcs/ISTA-Net-PyTorch alongside additional datasets of Knee MR from Hospital Kuala Lumpur(HKL) for the research work.
 
 
 
